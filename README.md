@@ -1,2 +1,1 @@
-# Default-Table-Model
-A table model defaut
+A Simple interface tableModel implementation, works with two dimensional arrays
